@@ -1,0 +1,9 @@
+# Resource-Allocation-for-Dynamic-Training
+Developed a method that tracks the optimal solution of a resource allocation problem with dynamic costs and constraints. 
+In this project, a method was developed to track the optimal solution of a resource allocation problem while exactly meeting the total time-varying demand in a decentralized manner at all times. The resource allocation problem is a critical challenge in network systems where the provider must distribute the resources in a way that exactly meets the demand without either overshooting or falling short. This is important in systems where the exact distribution of resources is critical, such as in cloud computing.
+
+The method developed in this project uses a decentralized approach, where each component in the network is responsible for allocating its own resources. The method takes into account the time-varying nature of the demand and ensures that the total resources are distributed in real-time to meet the changing needs of the system. The method uses a mathematical optimization approach to track the optimal solution and make real-time adjustments to the resource allocation as needed.
+
+The application of this work in cloud computing is significant as it allows for real-time allocation of resources in a decentralized manner, ensuring that the resources are always exactly matched to the demands of the system. This results in improved performance and efficiency, as well as reduced costs and waste.
+
+In conclusion, the project presents a novel and practical solution to the resource allocation problem in network systems, particularly in cloud computing. The method developed tracks the optimal solution while ensuring the exact distribution of resources to meet the time-varying demand, leading to improved performance and efficiency in the system.
